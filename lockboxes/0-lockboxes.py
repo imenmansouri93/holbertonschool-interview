@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""
+"""
+
+
 def canUnlockAll(boxes):
     n = len(boxes)  # Number of boxes
     unlocked = [False] * n  # Keeps track of whether each box is unlocked
